@@ -7,11 +7,7 @@ Original file is located at
     https://colab.research.google.com/github/ItsYourNafiz/Plant-Disease-Detection---CNN/blob/main/Plant_Disease_Detection.ipynb
 """
 
-#Load the Drive helper & Mount
-from google.colab import drive
 
-#This will Prompt for Authorization
-drive.mount('/content/drive')
 
 #Locate the Dataset Folder
 #!ls "/content/drive/My Drive"
