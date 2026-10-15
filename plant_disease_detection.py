@@ -14,7 +14,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 #Locate the Dataset Folder
-!ls "/content/drive/My Drive"
+#!ls "/content/drive/My Drive"
 
 #Importing Library
 
